@@ -2,7 +2,18 @@ img {
   width: 300px;
 }
 
-.column {
+.column1 {
   width: 300px;
   float: left;
+  background-color: pink;
+}
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: lightblue;
+}
+.column3 {
+  width: 300px;
+  float: left;
+  background-color: yellow;
 }
